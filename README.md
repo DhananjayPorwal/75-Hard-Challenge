@@ -34,6 +34,14 @@ The 75 Hard Challenge is not easy, but many people who have completed it have re
 - 😎 More self-confidence and resilience
 - 🙌 Greater appreciation for the power of consistency and commitment
 
+# 🏋️‍♀️ How to Participate in the 75 Hard Challenge
+
+1. ⭐ Star and fork the repository.
+2. 📁 Create a new folder named "Tracking" within the repository.
+3. 📝 Add a file for each day of the challenge, such as "Day1.md", "Day2.md", etc.
+4. 📈 In each file, record your daily experience and progress with the challenge.
+5. 💾 Commit and push your changes to the repository.
+
 ## Conclusion 🚀
 
 If you're ready to take on a challenge and develop mental toughness and discipline, the 75 Hard Challenge may be just what you need. But remember, this challenge is not for everyone. It requires a significant commitment of time and effort, and it's important to consult with a healthcare professional before starting to ensure that it's appropriate for you. 💯
